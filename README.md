@@ -19,5 +19,5 @@ Dieses Script wird ein Backup in regelmässigen Abständen von einer Webseite er
 - 
 
 ## Activity Diagram
-
+![activityDiagram drawio](https://github.com/metboi/m122-script/assets/70205436/f4b68e95-cdeb-487e-a76b-69b2e690353c)
 
