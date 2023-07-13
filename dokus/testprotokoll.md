@@ -1,1 +1,1 @@
-![Testprotokoll_Bild](https://github.com/metboi/m122-script/assets/70205436/4aa2a121-1946-4f7c-8c60-9c294414eb9b)
+![Testprotokoll_m122](https://github.com/metboi/m122-script/assets/70205436/88075973-b10f-4ea4-a437-6f8f0d627a91)
